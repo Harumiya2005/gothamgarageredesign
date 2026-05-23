@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Car Masters: Rust to Riches | Official Trailer",
+    "category": "Featured",
+    "duration": "01:45",
+    "views": "2.4M",
+    "thumbnail": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "sX97JvOaOQU",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Transforming a '53 Chevy into a Badass Rat Rod",
+    "category": "Full Builds",
+    "duration": "14:20",
+    "views": "1.2M",
+    "thumbnail": "https://images.unsplash.com/photo-1596484552993-a4e9b940e4f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "FqHlFwGv8b8",
+    "isFeatured": false
+  },
+  {
+    "id": 3,
+    "title": "Mark Towle's Shop Tour - Behind the Scenes",
+    "category": "Shop Tours",
+    "duration": "08:45",
+    "views": "845K",
+    "thumbnail": "https://images.unsplash.com/photo-1610647752706-3bb12232b3ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "W0zJ3G2D9mQ",
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "title": "The Lincoln Futura Replica Build Part 1",
+    "category": "Full Builds",
+    "duration": "22:15",
+    "views": "3.1M",
+    "thumbnail": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "VwL-U1o5t-w",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "title": "Constance Nunes on Engine Building",
+    "category": "Behind the Scenes",
+    "duration": "06:30",
+    "views": "950K",
+    "thumbnail": "https://images.unsplash.com/photo-1486262715619-670810a07151?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "uJk5QyT107A",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "title": "Custom Paint Tricks with Caveman",
+    "category": "Quick Tips",
+    "duration": "04:12",
+    "views": "420K",
+    "thumbnail": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "8Jeb_M4_B7g",
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "title": "Six-Figure Concept Car Reveal",
+    "category": "Full Builds",
+    "duration": "18:50",
+    "views": "2.8M",
+    "thumbnail": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "Y3zL9Uv52gU",
+    "isFeatured": true
+  },
+  {
+    "id": 8,
+    "title": "Fabrication Basics: Welding 101",
+    "category": "Quick Tips",
+    "duration": "09:25",
+    "views": "670K",
+    "thumbnail": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "9bZkp7q19f0",
+    "isFeatured": false
+  },
+  {
+    "id": 9,
+    "title": "Meet the Gotham Garage Crew",
+    "category": "Behind the Scenes",
+    "duration": "11:40",
+    "views": "1.5M",
+    "thumbnail": "https://images.unsplash.com/photo-1503375894314-47625508a48d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "J---aiyznGQ",
+    "isFeatured": false
+  },
+  {
+    "id": 10,
+    "title": "The Spider Web Car Delivery",
+    "category": "Shop Tours",
+    "duration": "15:05",
+    "views": "1.8M",
+    "thumbnail": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "youtubeId": "bJ9r8LMU9bQ",
+    "isFeatured": false
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "profile": {
+    "firstName": "Nexus",
+    "lastName": "Hci",
+    "email": "layaojohnriel18@gmail.com",
+    "password": "123",
+    "country": "US",
+    "role": "Premium Gearhead",
+    "initials": "MT"
+  },
+  "addresses": [
+    {
+      "id": 1,
+      "isDefault": true,
+      "name": "Mark Towle",
+      "street": "123 Gotham Garage Way",
+      "city": "Temecula",
+      "state": "CA",
+      "zip": "92590",
+      "country": "United States"
+    },
+    {
+      "id": 2,
+      "isDefault": false,
+      "name": "Constance Nunes",
+      "street": "456 Custom Cruiser Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": "United States"
+    }
+  ],
+  "orders": [
+    {
+      "id": "GG-104958",
+      "date": "Feb 24, 2026",
+      "total": 93.00,
+      "status": "In Transit",
+      "statusClass": "bg-rose-900/20 text-rose-500 border-rose-500/30",
+      "items": [
+        { "name": "Signature Skull Hoodie", "qty": 1, "price": 65.00, "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=200&q=80" },
+        { "name": "Mechanic Snapback", "qty": 1, "price": 28.00, "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=200&q=80" }
+      ]
+    },
+    {
+      "id": "GG-103822",
+      "date": "Dec 12, 2025",
+      "total": 35.00,
+      "status": "Delivered",
+      "statusClass": "bg-green-900/20 text-green-500 border-green-500/30",
+      "items": [
+        { "name": "Vintage Wash Moto Tee", "qty": 1, "price": 35.00, "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=200&q=80" }
+      ]
+    }
+  ]
+}

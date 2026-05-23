@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Vintage Wash Moto Tee",
+    "price": 35.00,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "New",
+    "category": "T-Shirts",
+    "sizes": ["S", "M", "L", "XL", "2XL"],
+    "stock": 45,
+    "sales": 15
+  },
+  {
+    "id": 2,
+    "name": "Signature Skull Hoodie",
+    "price": 65.00,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "",
+    "category": "Hoodies & Sweaters",
+    "sizes": ["M", "L", "XL", "2XL"],
+    "stock": 12,
+    "sales": 142
+  },
+  {
+    "id": 3,
+    "name": "Mechanic Snapback",
+    "price": 28.00,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "Sold Out",
+    "category": "Hats & Caps",
+    "sizes": ["OS"],
+    "stock": 0,
+    "sales": 350
+  },
+  {
+    "id": 4,
+    "name": "Classic Garage Work Shirt",
+    "price": 45.00,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e32f85e23?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "",
+    "category": "T-Shirts",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 28,
+    "sales": 89
+  },
+  {
+    "id": 5,
+    "name": "Racing Stripe Beanie",
+    "price": 22.00,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "",
+    "category": "Hats & Caps",
+    "sizes": ["OS"],
+    "stock": 15,
+    "sales": 45
+  },
+  {
+    "id": 6,
+    "name": "Leather Riding Gloves",
+    "price": 55.00,
+    "image": "https://images.unsplash.com/photo-1517554568911-370e8ed3eec8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "Limited",
+    "category": "Accessories",
+    "sizes": ["M", "L", "XL"],
+    "stock": 6,
+    "sales": 210
+  },
+  {
+    "id": 7,
+    "name": "Stainless Shop Tumbler",
+    "price": 25.00,
+    "image": "https://images.unsplash.com/photo-1614902167436-3932205562d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "Sold Out",
+    "category": "Accessories",
+    "sizes": ["OS"],
+    "stock": 0,
+    "sales": 500
+  },
+  {
+    "id": 8,
+    "name": "Vintage Logo Shop Jacket",
+    "price": 85.00,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "Popular",
+    "category": "Hoodies & Sweaters",
+    "sizes": ["L", "XL", "2XL"],
+    "stock": 8,
+    "sales": 840
+  },
+  {
+    "id": 9,
+    "name": "Heavy-Duty Canvas Tool Bag",
+    "price": 40.00,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "",
+    "category": "Accessories",
+    "sizes": ["OS"],
+    "stock": 18,
+    "sales": 120
+  },
+  {
+    "id": 10,
+    "name": "Embroidered Iron-On Patch Set",
+    "price": 15.00,
+    "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "badge": "Sale",
+    "category": "Accessories",
+    "sizes": ["OS"],
+    "stock": 42,
+    "sales": 65
+  }
+]
